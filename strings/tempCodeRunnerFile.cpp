@@ -1,0 +1,1 @@
+  // cin.getline(str,100)
